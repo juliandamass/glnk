@@ -70,7 +70,11 @@ const ConnectionsGraph = ({
   }, []);
 
   return (
-    <div ref={containerRef} className="w-full h-full bg-white">
+    <div
+      id="ForceGraph2D"
+      ref={containerRef}
+      className="w-full h-full bg-white"
+    >
       {graphSize?.width && graphSize.height ? (
         <ForceGraph2D
           ref={setGraphRef as any}

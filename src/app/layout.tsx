@@ -27,13 +27,15 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
+      <body
+        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+      >
         {/* Mock design to flow */}
         {/* <img src="/images/design.jpg" className="fixed top-0 left-0 z-[1]"></img> */}
 
-        <div className="relative z-10 flex px-10">
+        <div className="relative z-10 flex px-0 lg:px-10">
           <NavBar />
-          <div className="flex flex-col gap-6 w-full px-6 py-12">
+          <div className="flex flex-col gap-4 lg:gap-6 w-full px-4 lg:px-6 py-4 lg:py-12">
             <Header />
             {children}
           </div>

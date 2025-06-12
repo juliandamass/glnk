@@ -1,6 +1,6 @@
 "use client";
 
-import { calculateAge, cn, normalizeText } from "@/lib/utils";
+import { calculateAge, cn, normalizeText, scrollIntoView } from "@/lib/utils";
 import { IHcp } from "@/types/hcp.types";
 import { Icon } from "@iconify/react";
 import { isUndefined } from "lodash";
@@ -23,7 +23,7 @@ const PeerSpace = () => {
   const [activeHcp, setActiveHcp] = useState<IHcp>(initialHcp);
   const [matchedHcpsResult, setMatchedHcpsResult] = useState<
     IHcp[] | undefined
-  >([]);
+  >(undefined);
 
   const [searchKeyword, setSearchKeyword] = useState<string>();
 
@@ -58,8 +58,8 @@ const PeerSpace = () => {
   };
 
   return (
-    <div className="flex flex-col gap-6">
-      <div className="p-4 bg-white rounded-2xl shadow-sm shadow-gray-100">
+    <div className="flex flex-col gap-4 lg:gap-6">
+      <div className="p-2 lg:p-4 bg-white rounded-2xl shadow-sm shadow-gray-100">
         <div className="grid grid-cols-11 gap-4">
           <div className="col-span-9">
             <div
@@ -107,6 +107,7 @@ const PeerSpace = () => {
                             onClick={() => {
                               handleResetSearch();
                               setActiveHcp(hcp);
+                              scrollIntoView("ForceGraph2D");
                             }}
                           >
                             <Image
@@ -158,8 +159,8 @@ const PeerSpace = () => {
 
         <div className="rounded-2xl shadow-[0_0px_8px_0_rgb(0_0_0_/_0.1),_0_1px_2px_-1px_rgb(0_0_0_/_0.1)] shadow-gray-200 overflow-hidden">
           <div className="grid grid-cols-12">
-            <div className="col-span-5">
-              <div className="flex flex-col gap-4 p-4">
+            <div className="col-span-12 lg:col-span-5">
+              <div className="flex flex-col gap-4 p-2 lg:p-4">
                 <div className="w-full p-2 bg-white rounded-xl">
                   <div className="flex flex-col items-center">
                     <div className="w-full h-40 border border-gray-200 rounded-t-xl overflow-hidden">
@@ -213,7 +214,7 @@ const PeerSpace = () => {
                         className="size-9 rounded-lg"
                       >
                         <Icon
-                          icon="lucide:box"
+                          icon="heroicons-outline:dots-vertical"
                           className="text-xl text-gray-500"
                         />
                       </Button>
@@ -226,7 +227,7 @@ const PeerSpace = () => {
                     <div className="flex flex-col gap-2 px-4 py-3 bg-gray-100 rounded-lg">
                       <div className="flex items-center gap-2">
                         <Icon
-                          icon="lucide:box"
+                          icon="ph:handshake"
                           className="text-lg text-gray-500"
                         />
                         <span className="text-sm text-gray-500">
@@ -238,7 +239,7 @@ const PeerSpace = () => {
                       </p>
                       <div className="flex items-center gap-1">
                         <Icon
-                          icon="lucide:box"
+                          icon="mingcute:trending-up-line"
                           className="text-sm text-green-500"
                         />
                         <span className="text-[10px] text-green-500">+20%</span>
@@ -247,7 +248,7 @@ const PeerSpace = () => {
                     <div className="flex flex-col gap-2 px-4 py-3 bg-gray-100 rounded-lg">
                       <div className="flex items-center gap-2">
                         <Icon
-                          icon="lucide:box"
+                          icon="ph:star-half-duotone"
                           className="text-lg text-gray-500"
                         />
                         <span className="text-sm text-gray-500">
@@ -259,7 +260,7 @@ const PeerSpace = () => {
                       </p>
                       <div className="flex items-center gap-1">
                         <Icon
-                          icon="lucide:box"
+                          icon="mingcute:trending-up-line"
                           className="text-sm text-green-500"
                         />
                         <span className="text-[10px] text-green-500">+5%</span>
@@ -272,41 +273,45 @@ const PeerSpace = () => {
                   </div>
                   <div>
                     <p className="font-semibold mb-1">Education</p>
-                    {activeHcp.education.map((education, index) => (
-                      <div
-                        key={index}
-                        className="flex gap-2 p-2 bg-gray-100 rounded-lg"
-                      >
-                        <Image
-                          src="/images/placeholder.jpg"
-                          alt="Image"
-                          width={256}
-                          height={256}
-                          className="shrink-0 w-10 h-10 rounded-lg"
-                        />
-                        <div>
-                          <p className="font-medium">{education.name}</p>
-                          <p className="text-sm text-gray-500">
-                            {education.field}
-                          </p>
-                          <p className="text-sm text-gray-500">
-                            Specialization in {education.specialization}
-                          </p>
-                          <p className="text-sm text-gray-500">
-                            {education.period[0]} - {education.period[1]}
-                          </p>
+                    <div className="space-y-2">
+                      {activeHcp.education.map((education, index) => (
+                        <div
+                          key={index}
+                          className="flex gap-2 p-2 bg-gray-100 rounded-lg"
+                        >
+                          <Image
+                            src="/images/placeholder.jpg"
+                            alt="Image"
+                            width={256}
+                            height={256}
+                            className="shrink-0 w-10 h-10 rounded-lg"
+                          />
+                          <div>
+                            <p className="font-medium">{education.name}</p>
+                            <p className="text-sm text-gray-500">
+                              {education.field}
+                            </p>
+                            <p className="text-sm text-gray-500">
+                              Specialization in {education.specialization}
+                            </p>
+                            <p className="text-sm text-gray-500">
+                              {education.period[0]} - {education.period[1]}
+                            </p>
+                          </div>
                         </div>
-                      </div>
-                    ))}
+                      ))}
+                    </div>
                   </div>
                 </div>
               </div>
             </div>
-            <div className="col-span-7">
-              <ConnectionsGraph
-                activeHcp={activeHcp}
-                onNodeClick={setActiveHcp}
-              />
+            <div className="col-span-12 lg:col-span-7">
+              <div className="w-full h-96 lg:h-full">
+                <ConnectionsGraph
+                  activeHcp={activeHcp}
+                  onNodeClick={setActiveHcp}
+                />
+              </div>
             </div>
           </div>
         </div>

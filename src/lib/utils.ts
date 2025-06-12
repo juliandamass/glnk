@@ -52,3 +52,12 @@ export const normalizeText = (text: string) => {
     .replace(/[^a-z0-9\s]/gi, "") // remove punctuation
     .trim();
 };
+
+export const scrollIntoView = (id: string): void => {
+  const element = document.getElementById(id);
+  console.log(element);
+
+  if (element) {
+    element.scrollIntoView({ behavior: "smooth" });
+  }
+};
