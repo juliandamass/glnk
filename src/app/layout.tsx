@@ -1,9 +1,9 @@
+import Header from "@/components/elements/header";
+import NavBar from "@/components/elements/nav-bar";
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
+
 import "./globals.css";
-import NavBar from "@/components/elements/nav-bar";
-import { Button } from "@/components/ui/button";
-import Header from "@/components/elements/header";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -30,9 +30,6 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        {/* Mock design to flow */}
-        {/* <img src="/images/design.jpg" className="fixed top-0 left-0 z-[1]"></img> */}
-
         <div className="relative z-10 flex px-0 lg:px-10">
           <NavBar />
           <div className="flex flex-col gap-4 lg:gap-6 w-full px-4 lg:px-6 py-4 lg:py-12">
