@@ -1,4 +1,4 @@
-[Demo](https://github.com/vasturiano/force-graph)
+[Demo](https://glnk-git-main-julian-damas-suryawans-projects.vercel.app/)
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
