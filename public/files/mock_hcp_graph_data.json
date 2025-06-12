@@ -1,0 +1,2696 @@
+{
+  "nodes": [
+    {
+      "id": "0000-0000-1117-1957",
+      "labels": "Researcher",
+      "name": "Dr. Anya Sharma",
+      "images": "/images/hcp/researcher-1.jpg",
+      "role": "researcher",
+      "dob": "1985-03-15",
+      "address": "Japan",
+      "headline": "Leading expert in genetic sequencing and personalized medicine.",
+      "bio": "Dr. Sharma's work focuses on identifying genetic markers for chronic diseases and developing targeted therapeutic approaches. She has published numerous articles in peer-reviewed journals.",
+      "education": [
+        {
+          "name": "Harvard University",
+          "field": "Genetics",
+          "specialization": "Molecular Biology",
+          "period": ["Sep 2003", "Jun 2007"]
+        },
+        {
+          "name": "Stanford School of Medicine",
+          "field": "Medicine",
+          "specialization": "Genomic Medicine",
+          "period": ["Sep 2008", "Jun 2012"]
+        }
+      ],
+      "peers": 125,
+      "following": 500,
+      "patientServed": 750,
+      "successRate": 92.5
+    },
+    {
+      "id": "0000-0001-1709-2319",
+      "labels": "Researcher",
+      "name": "Dr. Ben Carter",
+      "images": "/images/hcp/researcher-2.jpg",
+      "role": "researcher",
+      "dob": "1978-11-22",
+      "address": "Togo",
+      "headline": "Pioneering research in AI-driven diagnostics for early disease detection.",
+      "bio": "Dr. Carter specializes in the application of artificial intelligence and machine learning to medical imaging and diagnostic processes, aiming for earlier and more accurate disease identification.",
+      "education": [
+        {
+          "name": "MIT",
+          "field": "Computer Science",
+          "specialization": "Artificial Intelligence",
+          "period": ["Sep 1996", "Jun 2000"]
+        },
+        {
+          "name": "University of California, Berkeley",
+          "field": "Bioinformatics",
+          "specialization": "Medical Informatics",
+          "period": ["Sep 2001", "Jun 2005"]
+        }
+      ],
+      "peers": 98,
+      "following": 420,
+      "patientServed": 680,
+      "successRate": 95.1
+    },
+    {
+      "id": "0000-0002-4873-8178",
+      "labels": "Researcher",
+      "name": "Dr. Chloe Davis",
+      "images": "/images/hcp/researcher-3.jpg",
+      "role": "researcher",
+      "dob": "1990-07-01",
+      "address": "Tuvalu",
+      "headline": "Dedicated to advancing regenerative medicine and tissue engineering.",
+      "bio": "Dr. Davis's research focuses on developing novel techniques for regenerating damaged tissues and organs, offering new hope for patients with degenerative conditions.",
+      "education": [
+        {
+          "name": "Cambridge University",
+          "field": "Biomedical Engineering",
+          "specialization": "Tissue Engineering",
+          "period": ["Sep 2008", "Jun 2012"]
+        },
+        {
+          "name": "Mayo Clinic",
+          "field": "Regenerative Medicine",
+          "specialization": "Stem Cell Therapy",
+          "period": ["Sep 2013", "Jun 2017"]
+        }
+      ],
+      "peers": 75,
+      "following": 310,
+      "patientServed": 500,
+      "successRate": 89.9
+    },
+    {
+      "id": "0000-0003-1042-4260",
+      "labels": "Researcher",
+      "name": "Dr. David Evans",
+      "images": "/images/hcp/researcher-4.jpg",
+      "role": "researcher",
+      "dob": "1982-04-10",
+      "address": "Ghana",
+      "headline": "Expert in pharmaceutical development and drug discovery.",
+      "bio": "Dr. Evans leads a team focused on identifying and developing new drug candidates for various diseases, from initial screening to clinical trials.",
+      "education": [
+        {
+          "name": "University of Oxford",
+          "field": "Pharmacology",
+          "specialization": "Drug Discovery",
+          "period": ["Sep 2000", "Jun 2004"]
+        },
+        {
+          "name": "University of California, San Francisco",
+          "field": "Pharmacy",
+          "specialization": "Clinical Pharmacology",
+          "period": ["Sep 2005", "Jun 2009"]
+        }
+      ],
+      "peers": 110,
+      "following": 480,
+      "patientServed": 720,
+      "successRate": 91.2
+    },
+    {
+      "id": "0000-0004-8644-7180",
+      "labels": "Researcher",
+      "name": "Dr. Emily Green",
+      "images": "/images/hcp/researcher-5.jpg",
+      "role": "researcher",
+      "dob": "1988-09-05",
+      "address": "Kuwait",
+      "headline": "Specializing in immunotherapy for cancer treatment.",
+      "bio": "Dr. Green's work is at the forefront of immunotherapy, exploring new ways to harness the body's immune system to fight cancer effectively.",
+      "education": [
+        {
+          "name": "University College London",
+          "field": "Immunology",
+          "specialization": "Cancer Immunology",
+          "period": ["Sep 2006", "Jun 2010"]
+        },
+        {
+          "name": "MD Anderson Cancer Center",
+          "field": "Oncology",
+          "specialization": "Immunotherapy",
+          "period": ["Sep 2011", "Jun 2015"]
+        }
+      ],
+      "peers": 88,
+      "following": 390,
+      "patientServed": 610,
+      "successRate": 93.8
+    },
+    {
+      "id": "0000-0005-5536-5416",
+      "labels": "Researcher",
+      "name": "Dr. Frank Hill",
+      "images": "/images/hcp/researcher-1.jpg",
+      "role": "researcher",
+      "dob": "1975-01-30",
+      "address": "British Indian Ocean Territory",
+      "headline": "Renowned for contributions to medical device innovation.",
+      "bio": "Dr. Hill focuses on designing and developing cutting-edge medical devices that improve patient care and surgical outcomes.",
+      "education": [
+        {
+          "name": "Georgia Tech",
+          "field": "Biomedical Engineering",
+          "specialization": "Medical Devices",
+          "period": ["Sep 1993", "Jun 1997"]
+        },
+        {
+          "name": "Cleveland Clinic",
+          "field": "Medical Engineering",
+          "specialization": "Surgical Robotics",
+          "period": ["Sep 1998", "Jun 2002"]
+        }
+      ],
+      "peers": 130,
+      "following": 550,
+      "patientServed": 800,
+      "successRate": 96.0
+    },
+    {
+      "id": "0000-0006-2384-2378",
+      "labels": "Researcher",
+      "name": "Dr. Grace Lee",
+      "images": "/images/hcp/researcher-2.jpg",
+      "role": "researcher",
+      "dob": "1992-06-18",
+      "address": "Armenia",
+      "headline": "Researching public health initiatives and disease prevention.",
+      "bio": "Dr. Lee's expertise lies in developing and evaluating public health programs aimed at preventing chronic diseases and promoting community wellness.",
+      "education": [
+        {
+          "name": "Johns Hopkins University",
+          "field": "Public Health",
+          "specialization": "Epidemiology",
+          "period": ["Sep 2010", "Jun 2014"]
+        },
+        {
+          "name": "Centers for Disease Control and Prevention",
+          "field": "Global Health",
+          "specialization": "Disease Prevention",
+          "period": ["Sep 2015", "Jun 2019"]
+        }
+      ],
+      "peers": 65,
+      "following": 280,
+      "patientServed": 450,
+      "successRate": 87.6
+    },
+    {
+      "id": "0000-0007-9781-5242",
+      "labels": "Researcher",
+      "name": "Dr. Henry Martinez",
+      "images": "/images/hcp/researcher-3.jpg",
+      "role": "researcher",
+      "dob": "1980-02-28",
+      "address": "Guinea-Bissau",
+      "headline": "Specialist in neuroscience and neurodegenerative diseases.",
+      "bio": "Dr. Martinez is dedicated to understanding the mechanisms of neurodegenerative diseases like Alzheimer's and Parkinson's, and exploring new therapeutic targets.",
+      "education": [
+        {
+          "name": "Yale University",
+          "field": "Neuroscience",
+          "specialization": "Neurobiology",
+          "period": ["Sep 1998", "Jun 2002"]
+        },
+        {
+          "name": "National Institutes of Health",
+          "field": "Neurology",
+          "specialization": "Neurodegenerative Disorders",
+          "period": ["Sep 2003", "Jun 2007"]
+        }
+      ],
+      "peers": 105,
+      "following": 460,
+      "patientServed": 700,
+      "successRate": 90.5
+    },
+    {
+      "id": "0000-0008-7617-2243",
+      "labels": "Researcher",
+      "name": "Dr. Isabella Nunez",
+      "images": "/images/hcp/researcher-4.jpg",
+      "role": "researcher",
+      "dob": "1987-12-03",
+      "address": "Venezuela",
+      "headline": "Focusing on CRISPR gene editing for therapeutic applications.",
+      "bio": "Dr. Nunez's research involves advanced gene editing technologies, particularly CRISPR, to correct genetic defects and treat inherited diseases.",
+      "education": [
+        {
+          "name": "University of California, Berkeley",
+          "field": "Genetics",
+          "specialization": "Genomic Engineering",
+          "period": ["Sep 2005", "Jun 2009"]
+        },
+        {
+          "name": "Broad Institute of MIT and Harvard",
+          "field": "Molecular Biology",
+          "specialization": "CRISPR Therapeutics",
+          "period": ["Sep 2010", "Jun 2014"]
+        }
+      ],
+      "peers": 92,
+      "following": 410,
+      "patientServed": 650,
+      "successRate": 94.2
+    },
+    {
+      "id": "0000-0009-8018-2655",
+      "labels": "Researcher",
+      "name": "Dr. Jack Olsen",
+      "images": "/images/hcp/researcher-5.jpg",
+      "role": "researcher",
+      "dob": "1973-08-08",
+      "address": "Nicaragua",
+      "headline": "Expert in clinical trial design and biostatistics.",
+      "bio": "Dr. Olsen provides crucial expertise in designing and analyzing clinical trials to ensure the efficacy and safety of new medical interventions.",
+      "education": [
+        {
+          "name": "University of Pennsylvania",
+          "field": "Biostatistics",
+          "specialization": "Clinical Trials",
+          "period": ["Sep 1991", "Jun 1995"]
+        },
+        {
+          "name": "Food and Drug Administration (FDA)",
+          "field": "Regulatory Science",
+          "specialization": "Drug Development",
+          "period": ["Sep 1996", "Jun 2000"]
+        }
+      ],
+      "peers": 140,
+      "following": 580,
+      "patientServed": 850,
+      "successRate": 97.1
+    },
+    {
+      "id": "0000-00010-9937-9813",
+      "labels": "Researcher",
+      "name": "Dr. Karen Patel",
+      "images": "/images/hcp/researcher-1.jpg",
+      "role": "researcher",
+      "dob": "1989-05-20",
+      "address": "Syria",
+      "headline": "Specializes in health informatics and big data analysis.",
+      "bio": "Dr. Patel utilizes large healthcare datasets to identify trends, predict outbreaks, and optimize healthcare delivery systems.",
+      "education": [
+        {
+          "name": "Carnegie Mellon University",
+          "field": "Health Informatics",
+          "specialization": "Big Data Analytics",
+          "period": ["Sep 2007", "Jun 2011"]
+        },
+        {
+          "name": "Columbia University",
+          "field": "Public Health",
+          "specialization": "Healthcare Systems",
+          "period": ["Sep 2012", "Jun 2016"]
+        }
+      ],
+      "peers": 80,
+      "following": 350,
+      "patientServed": 550,
+      "successRate": 90.1
+    },
+    {
+      "id": "0000-00011-7050-9193",
+      "labels": "Researcher",
+      "name": "Dr. Liam Quinn",
+      "images": "/images/hcp/researcher-2.jpg",
+      "role": "researcher",
+      "dob": "1983-10-12",
+      "address": "Lithuania",
+      "headline": "Developing nanomedicine for targeted drug delivery.",
+      "bio": "Dr. Quinn's research explores the use of nanoparticles to deliver drugs precisely to diseased cells, minimizing side effects and improving treatment efficacy.",
+      "education": [
+        {
+          "name": "Northwestern University",
+          "field": "Materials Science",
+          "specialization": "Nanotechnology",
+          "period": ["Sep 2001", "Jun 2005"]
+        },
+        {
+          "name": "University of California, Los Angeles",
+          "field": "Biomedical Engineering",
+          "specialization": "Nanomedicine",
+          "period": ["Sep 2006", "Jun 2010"]
+        }
+      ],
+      "peers": 115,
+      "following": 490,
+      "patientServed": 730,
+      "successRate": 93.0
+    },
+    {
+      "id": "0000-00012-5082-8666",
+      "labels": "Researcher",
+      "name": "Dr. Mia Rodriguez",
+      "images": "/images/hcp/researcher-3.jpg",
+      "role": "researcher",
+      "dob": "1991-03-25",
+      "address": "Samoa",
+      "headline": "Focused on developing new vaccines for infectious diseases.",
+      "bio": "Dr. Rodriguez's lab is dedicated to designing and testing innovative vaccine strategies to combat emerging and re-emerging infectious diseases globally.",
+      "education": [
+        {
+          "name": "Emory University",
+          "field": "Microbiology",
+          "specialization": "Virology",
+          "period": ["Sep 2009", "Jun 2013"]
+        },
+        {
+          "name": "NIAID",
+          "field": "Immunology",
+          "specialization": "Vaccine Development",
+          "period": ["Sep 2014", "Jun 2018"]
+        }
+      ],
+      "peers": 70,
+      "following": 300,
+      "patientServed": 480,
+      "successRate": 88.5
+    },
+    {
+      "id": "0000-00013-5414-8535",
+      "labels": "Researcher",
+      "name": "Dr. Noah Smith",
+      "images": "/images/hcp/researcher-4.jpg",
+      "role": "researcher",
+      "dob": "1977-06-07",
+      "address": "Germany",
+      "headline": "Expert in medical imaging technologies and diagnostic radiology.",
+      "bio": "Dr. Smith's research aims to improve the resolution and diagnostic power of medical imaging techniques, leading to more accurate diagnoses.",
+      "education": [
+        {
+          "name": "Stanford University",
+          "field": "Electrical Engineering",
+          "specialization": "Medical Imaging",
+          "period": ["Sep 1995", "Jun 1999"]
+        },
+        {
+          "name": "Massachusetts General Hospital",
+          "field": "Radiology",
+          "specialization": "Diagnostic Imaging",
+          "period": ["Sep 2000", "Jun 2004"]
+        }
+      ],
+      "peers": 120,
+      "following": 520,
+      "patientServed": 780,
+      "successRate": 94.7
+    },
+    {
+      "id": "0000-00014-1466-5230",
+      "labels": "Researcher",
+      "name": "Dr. Olivia Taylor",
+      "images": "/images/hcp/researcher-5.jpg",
+      "role": "researcher",
+      "dob": "1986-09-19",
+      "address": "Sierra Leone",
+      "headline": "Leading research in personalized nutrition and metabolic health.",
+      "bio": "Dr. Taylor investigates how individual genetic makeup and lifestyle influence metabolic health, with a focus on personalized dietary interventions.",
+      "education": [
+        {
+          "name": "Cornell University",
+          "field": "Nutrition Science",
+          "specialization": "Nutrigenomics",
+          "period": ["Sep 2004", "Jun 2008"]
+        },
+        {
+          "name": "Tufts University",
+          "field": "Dietetics",
+          "specialization": "Metabolic Disorders",
+          "period": ["Sep 2009", "Jun 2013"]
+        }
+      ],
+      "peers": 85,
+      "following": 370,
+      "patientServed": 590,
+      "successRate": 91.8
+    },
+    {
+      "id": "0000-00015-1445-9353",
+      "labels": "Researcher",
+      "name": "Dr. Peter White",
+      "images": "/images/hcp/researcher-1.jpg",
+      "role": "researcher",
+      "dob": "1979-04-02",
+      "address": "Iceland",
+      "headline": "Focusing on neuroscience and brain-computer interfaces.",
+      "bio": "Dr. White's groundbreaking work involves developing interfaces that allow direct communication between the brain and external devices, with applications in prosthetics and neurological disorders.",
+      "education": [
+        {
+          "name": "California Institute of Technology",
+          "field": "Neuroscience",
+          "specialization": "Neural Engineering",
+          "period": ["Sep 1997", "Jun 2001"]
+        },
+        {
+          "name": "University of Pittsburgh Medical Center",
+          "field": "Biomedical Engineering",
+          "specialization": "Brain-Computer Interfaces",
+          "period": ["Sep 2002", "Jun 2006"]
+        }
+      ],
+      "peers": 135,
+      "following": 560,
+      "patientServed": 810,
+      "successRate": 95.5
+    },
+    {
+      "id": "0000-00016-9961-5070",
+      "labels": "Researcher",
+      "name": "Dr. Quincy Adams",
+      "images": "/images/hcp/researcher-2.jpg",
+      "role": "researcher",
+      "dob": "1993-01-14",
+      "address": "Burundi",
+      "headline": "Investigating genetic predispositions to autoimmune diseases.",
+      "bio": "Dr. Adams's research seeks to uncover the genetic factors that contribute to the development of autoimmune diseases, paving the way for new diagnostic and therapeutic strategies.",
+      "education": [
+        {
+          "name": "University of Washington",
+          "field": "Genetics",
+          "specialization": "Immunogenetics",
+          "period": ["Sep 2011", "Jun 2015"]
+        },
+        {
+          "name": "National Institutes of Health",
+          "field": "Rheumatology",
+          "specialization": "Autoimmune Diseases",
+          "period": ["Sep 2016", "Jun 2020"]
+        }
+      ],
+      "peers": 68,
+      "following": 290,
+      "patientServed": 460,
+      "successRate": 89.2
+    },
+    {
+      "id": "0000-00017-5036-8878",
+      "labels": "Researcher",
+      "name": "Dr. Rachel Kim",
+      "images": "/images/hcp/researcher-3.jpg",
+      "role": "researcher",
+      "dob": "1984-07-09",
+      "address": "Kuwait",
+      "headline": "Specializing in health psychology and behavioral interventions.",
+      "bio": "Dr. Kim's work focuses on the psychological aspects of health and illness, developing behavioral interventions to improve patient outcomes and well-being.",
+      "education": [
+        {
+          "name": "University of Michigan",
+          "field": "Psychology",
+          "specialization": "Health Psychology",
+          "period": ["Sep 2002", "Jun 2006"]
+        },
+        {
+          "name": "Stanford School of Medicine",
+          "field": "Behavioral Medicine",
+          "specialization": "Mind-Body Interventions",
+          "period": ["Sep 2007", "Jun 2011"]
+        }
+      ],
+      "peers": 95,
+      "following": 400,
+      "patientServed": 630,
+      "successRate": 92.1
+    },
+    {
+      "id": "0000-00018-7952-7698",
+      "labels": "Researcher",
+      "name": "Dr. Samuel Lee",
+      "images": "/images/hcp/researcher-4.jpg",
+      "role": "researcher",
+      "dob": "1976-11-21",
+      "address": "Armenia",
+      "headline": "Expert in biomedical ethics and responsible research practices.",
+      "bio": "Dr. Lee's work addresses the complex ethical considerations in biomedical research, ensuring responsible innovation and patient protection.",
+      "education": [
+        {
+          "name": "Georgetown University",
+          "field": "Philosophy",
+          "specialization": "Bioethics",
+          "period": ["Sep 1994", "Jun 1998"]
+        },
+        {
+          "name": "Harvard Medical School",
+          "field": "Law",
+          "specialization": "Medical Ethics",
+          "period": ["Sep 1999", "Jun 2003"]
+        }
+      ],
+      "peers": 100,
+      "following": 450,
+      "patientServed": 690,
+      "successRate": 90.8
+    },
+    {
+      "id": "0000-00019-2142-3042",
+      "labels": "Researcher",
+      "name": "Dr. Tina Chen",
+      "images": "/images/hcp/researcher-5.jpg",
+      "role": "researcher",
+      "dob": "1990-02-17",
+      "address": "Mauritania",
+      "headline": "Researching neuroplasticity and cognitive rehabilitation.",
+      "bio": "Dr. Chen investigates the brain's ability to reorganize itself (neuroplasticity) and develops strategies for cognitive rehabilitation after brain injury or disease.",
+      "education": [
+        {
+          "name": "McGill University",
+          "field": "Psychology",
+          "specialization": "Cognitive Neuroscience",
+          "period": ["Sep 2008", "Jun 2012"]
+        },
+        {
+          "name": "National Rehabilitation Hospital",
+          "field": "Neurorehabilitation",
+          "specialization": "Brain Injury Recovery",
+          "period": ["Sep 2013", "Jun 2017"]
+        }
+      ],
+      "peers": 72,
+      "following": 320,
+      "patientServed": 510,
+      "successRate": 89.5
+    },
+    {
+      "id": "0000-00020-3857-1237",
+      "labels": "Researcher",
+      "name": "Dr. Umar Khan",
+      "images": "/images/hcp/researcher-1.jpg",
+      "role": "researcher",
+      "dob": "1981-05-06",
+      "address": "Croatia",
+      "headline": "Focusing on pharmacogenomics and personalized drug therapies.",
+      "bio": "Dr. Khan's work combines genomics and pharmacology to tailor drug treatments to individual patients based on their genetic makeup, maximizing efficacy and minimizing adverse reactions.",
+      "education": [
+        {
+          "name": "University of Toronto",
+          "field": "Pharmacology",
+          "specialization": "Pharmacogenomics",
+          "period": ["Sep 1999", "Jun 2003"]
+        },
+        {
+          "name": "Mayo Clinic",
+          "field": "Clinical Pharmacy",
+          "specialization": "Personalized Medicine",
+          "period": ["Sep 2004", "Jun 2008"]
+        }
+      ],
+      "peers": 108,
+      "following": 470,
+      "patientServed": 710,
+      "successRate": 93.3
+    },
+    {
+      "id": "0000-00021-3566-6413",
+      "labels": "Researcher",
+      "name": "Dr. Victoria Lopez",
+      "images": "/images/hcp/researcher-2.jpg",
+      "role": "researcher",
+      "dob": "1988-10-29",
+      "address": "Laos",
+      "headline": "Specializing in pediatric oncology and rare childhood cancers.",
+      "bio": "Dr. Lopez is dedicated to finding new treatments and improving outcomes for children battling cancer, with a particular focus on rare forms of the disease.",
+      "education": [
+        {
+          "name": "St. Jude Children's Research Hospital",
+          "field": "Oncology",
+          "specialization": "Pediatric Cancer",
+          "period": ["Sep 2006", "Jun 2010"]
+        },
+        {
+          "name": "Children's Hospital of Philadelphia",
+          "field": "Pediatrics",
+          "specialization": "Rare Childhood Cancers",
+          "period": ["Sep 2011", "Jun 2015"]
+        }
+      ],
+      "peers": 90,
+      "following": 380,
+      "patientServed": 600,
+      "successRate": 92.9
+    },
+    {
+      "id": "0000-00022-6036-9864",
+      "labels": "Researcher",
+      "name": "Dr. William Green",
+      "images": "/images/hcp/researcher-3.jpg",
+      "role": "researcher",
+      "dob": "1974-03-01",
+      "address": "Mongolia",
+      "headline": "Focusing on medical robotics and surgical automation.",
+      "bio": "Dr. Green's pioneering work involves developing advanced robotic systems to assist in complex surgical procedures, enhancing precision and minimizing invasiveness.",
+      "education": [
+        {
+          "name": "Carnegie Mellon University",
+          "field": "Robotics",
+          "specialization": "Medical Robotics",
+          "period": ["Sep 1992", "Jun 1996"]
+        },
+        {
+          "name": "Intuitive Surgical",
+          "field": "Mechanical Engineering",
+          "specialization": "Surgical Automation",
+          "period": ["Sep 1997", "Jun 2001"]
+        }
+      ],
+      "peers": 150,
+      "following": 600,
+      "patientServed": 900,
+      "successRate": 98.0
+    },
+    {
+      "id": "0000-00023-8992-2930",
+      "labels": "Researcher",
+      "name": "Dr. Xenia Young",
+      "images": "/images/hcp/researcher-4.jpg",
+      "role": "researcher",
+      "dob": "1994-08-04",
+      "address": "Hungary",
+      "headline": "Researching advanced materials for medical implants.",
+      "bio": "Dr. Young's research focuses on developing biocompatible and durable materials for next-generation medical implants, improving long-term patient outcomes.",
+      "education": [
+        {
+          "name": "Imperial College London",
+          "field": "Materials Science",
+          "specialization": "Biomaterials",
+          "period": ["Sep 2012", "Jun 2016"]
+        },
+        {
+          "name": "MIT",
+          "field": "Biomedical Engineering",
+          "specialization": "Medical Implants",
+          "period": ["Sep 2017", "Jun 2021"]
+        }
+      ],
+      "peers": 60,
+      "following": 250,
+      "patientServed": 400,
+      "successRate": 85.0
+    },
+    {
+      "id": "0000-00024-9055-4327",
+      "labels": "Researcher",
+      "name": "Dr. Yvonne Zhang",
+      "images": "/images/hcp/researcher-5.jpg",
+      "role": "researcher",
+      "dob": "1980-12-11",
+      "address": "São Tomé and Príncipe",
+      "headline": "Specializing in global health disparities and access to care.",
+      "bio": "Dr. Zhang's work addresses inequities in healthcare access and outcomes around the world, advocating for policies that promote global health equity.",
+      "education": [
+        {
+          "name": "London School of Hygiene & Tropical Medicine",
+          "field": "Public Health",
+          "specialization": "Global Health",
+          "period": ["Sep 1998", "Jun 2002"]
+        },
+        {
+          "name": "World Health Organization (WHO)",
+          "field": "Health Policy",
+          "specialization": "Health Equity",
+          "period": ["Sep 2003", "Jun 2007"]
+        }
+      ],
+      "peers": 112,
+      "following": 475,
+      "patientServed": 715,
+      "successRate": 91.5
+    },
+    {
+      "id": "0000-00025-6249-3742",
+      "labels": "Researcher",
+      "name": "Dr. Zoe Anderson",
+      "images": "/images/hcp/researcher-1.jpg",
+      "role": "researcher",
+      "dob": "1985-06-23",
+      "address": "Ireland",
+      "headline": "Investigating the microbiome's role in human health and disease.",
+      "bio": "Dr. Anderson's research delves into the complex interactions between the human microbiome and various health conditions, from gut health to autoimmune disorders.",
+      "education": [
+        {
+          "name": "University of California, San Diego",
+          "field": "Microbiology",
+          "specialization": "Human Microbiome",
+          "period": ["Sep 2003", "Jun 2007"]
+        },
+        {
+          "name": "Weizmann Institute of Science",
+          "field": "Immunology",
+          "specialization": "Gut-Brain Axis",
+          "period": ["Sep 2008", "Jun 2012"]
+        }
+      ],
+      "peers": 90,
+      "following": 395,
+      "patientServed": 620,
+      "successRate": 93.5
+    },
+    {
+      "id": "0000-00026-1377-6092",
+      "labels": "Researcher",
+      "name": "Dr. Alice Brown",
+      "images": "/images/hcp/researcher-2.jpg",
+      "role": "researcher",
+      "dob": "1979-09-08",
+      "address": "Niue",
+      "headline": "Expert in cardiovascular research and regenerative cardiology.",
+      "bio": "Dr. Brown leads efforts to understand and treat heart diseases through innovative approaches, including stem cell therapies for cardiac regeneration.",
+      "education": [
+        {
+          "name": "University of Toronto",
+          "field": "Cardiology",
+          "specialization": "Regenerative Medicine",
+          "period": ["Sep 1997", "Jun 2001"]
+        },
+        {
+          "name": "Cleveland Clinic",
+          "field": "Cardiovascular Research",
+          "specialization": "Heart Failure",
+          "period": ["Sep 2002", "Jun 2006"]
+        }
+      ],
+      "peers": 128,
+      "following": 530,
+      "patientServed": 790,
+      "successRate": 94.9
+    },
+    {
+      "id": "0000-00027-7320-2702",
+      "labels": "Researcher",
+      "name": "Dr. Bob Chang",
+      "images": "/images/hcp/researcher-3.jpg",
+      "role": "researcher",
+      "dob": "1991-04-20",
+      "address": "Tristan da Cunha",
+      "headline": "Focusing on artificial organs and transplant immunology.",
+      "bio": "Dr. Chang's innovative research aims to overcome organ shortages by developing artificial organs and improving transplant outcomes through better immune suppression strategies.",
+      "education": [
+        {
+          "name": "University of Cambridge",
+          "field": "Biomedical Engineering",
+          "specialization": "Artificial Organs",
+          "period": ["Sep 2009", "Jun 2013"]
+        },
+        {
+          "name": "Massachusetts General Hospital",
+          "field": "Transplant Surgery",
+          "specialization": "Immunology",
+          "period": ["Sep 2014", "Jun 2018"]
+        }
+      ],
+      "peers": 78,
+      "following": 340,
+      "patientServed": 540,
+      "successRate": 91.0
+    },
+    {
+      "id": "0000-00028-7362-2777",
+      "labels": "Researcher",
+      "name": "Dr. Cathy Davies",
+      "images": "/images/hcp/researcher-4.jpg",
+      "role": "researcher",
+      "dob": "1983-01-05",
+      "address": "Kenya",
+      "headline": "Specializing in infectious disease epidemiology and outbreak response.",
+      "bio": "Dr. Davies is on the front lines of infectious disease research, studying pathogen transmission and developing rapid response strategies for public health crises.",
+      "education": [
+        {
+          "name": "Imperial College London",
+          "field": "Epidemiology",
+          "specialization": "Infectious Diseases",
+          "period": ["Sep 2001", "Jun 2005"]
+        },
+        {
+          "name": "World Health Organization (WHO)",
+          "field": "Public Health",
+          "specialization": "Outbreak Management",
+          "period": ["Sep 2006", "Jun 2010"]
+        }
+      ],
+      "peers": 118,
+      "following": 500,
+      "patientServed": 760,
+      "successRate": 94.0
+    },
+    {
+      "id": "0000-00029-2096-8959",
+      "labels": "Researcher",
+      "name": "Dr. Daniel Evans",
+      "images": "/images/hcp/researcher-5.jpg",
+      "role": "researcher",
+      "dob": "1989-07-16",
+      "address": "Maldives",
+      "headline": "Developing AI models for personalized treatment plans.",
+      "bio": "Dr. Evans's research leverages artificial intelligence to create highly individualized treatment plans for patients, optimizing therapies based on their unique characteristics.",
+      "education": [
+        {
+          "name": "Stanford University",
+          "field": "Computer Science",
+          "specialization": "Machine Learning",
+          "period": ["Sep 2007", "Jun 2011"]
+        },
+        {
+          "name": "IBM Watson Health",
+          "field": "Health Informatics",
+          "specialization": "AI in Healthcare",
+          "period": ["Sep 2012", "Jun 2016"]
+        }
+      ],
+      "peers": 95,
+      "following": 420,
+      "patientServed": 660,
+      "successRate": 93.1
+    },
+    {
+      "id": "book-title-0",
+      "labels": "BookPublication",
+      "name": "The Genetic Revolution: A New Era in Medicine",
+      "images": "/images/book.jpg",
+      "role": "book-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "book-title-1",
+      "labels": "BookPublication",
+      "name": "AI in Healthcare: Transforming Diagnostics and Treatment",
+      "images": "/images/book.jpg",
+      "role": "book-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "book-title-2",
+      "labels": "BookPublication",
+      "name": "Regenerative Medicine: The Future of Healing",
+      "images": "/images/book.jpg",
+      "role": "book-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "book-title-3",
+      "labels": "BookPublication",
+      "name": "Drug Discovery: From Lab to Clinic",
+      "images": "/images/book.jpg",
+      "role": "book-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "book-title-4",
+      "labels": "BookPublication",
+      "name": "Immunotherapy: A Breakthrough in Cancer Treatment",
+      "images": "/images/book.jpg",
+      "role": "book-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "book-title-5",
+      "labels": "BookPublication",
+      "name": "Medical Device Innovation: Engineering Better Health",
+      "images": "/images/book.jpg",
+      "role": "book-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "book-title-6",
+      "labels": "BookPublication",
+      "name": "Public Health Strategies: Preventing Disease, Promoting Wellness",
+      "images": "/images/book.jpg",
+      "role": "book-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "book-title-7",
+      "labels": "BookPublication",
+      "name": "Neurodegenerative Diseases: Understanding the Brain's Challenges",
+      "images": "/images/book.jpg",
+      "role": "book-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "book-title-8",
+      "labels": "BookPublication",
+      "name": "CRISPR and Gene Editing: Revolutionizing Biotechnology",
+      "images": "/images/book.jpg",
+      "role": "book-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "book-title-9",
+      "labels": "BookPublication",
+      "name": "Clinical Trials: Design, Conduct, and Analysis",
+      "images": "/images/book.jpg",
+      "role": "book-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "book-title-10",
+      "labels": "BookPublication",
+      "name": "Health Informatics: Leveraging Data for Better Care",
+      "images": "/images/book.jpg",
+      "role": "book-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "book-title-11",
+      "labels": "BookPublication",
+      "name": "Nanomedicine: Tiny Solutions for Big Health Challenges",
+      "images": "/images/book.jpg",
+      "role": "book-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "book-title-12",
+      "labels": "BookPublication",
+      "name": "Vaccine Development: A Global Health Imperative",
+      "images": "/images/book.jpg",
+      "role": "book-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "book-title-13",
+      "labels": "BookPublication",
+      "name": "Medical Imaging: Visualizing the Human Body",
+      "images": "/images/book.jpg",
+      "role": "book-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "book-title-14",
+      "labels": "BookPublication",
+      "name": "Personalized Nutrition: Eating for Your Genes",
+      "images": "/images/book.jpg",
+      "role": "book-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "book-title-15",
+      "labels": "BookPublication",
+      "name": "Brain-Computer Interfaces: Bridging Mind and Machine",
+      "images": "/images/book.jpg",
+      "role": "book-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "book-title-16",
+      "labels": "BookPublication",
+      "name": "Autoimmune Diseases: Unraveling the Immune System's Mysteries",
+      "images": "/images/book.jpg",
+      "role": "book-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "book-title-17",
+      "labels": "BookPublication",
+      "name": "Health Psychology: Mind, Body, and Well-being",
+      "images": "/images/book.jpg",
+      "role": "book-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "book-title-18",
+      "labels": "BookPublication",
+      "name": "Biomedical Ethics: Navigating the Moral Landscape of Medicine",
+      "images": "/images/book.jpg",
+      "role": "book-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "book-title-19",
+      "labels": "BookPublication",
+      "name": "Neuroplasticity: The Brain That Changes Itself",
+      "images": "/images/book.jpg",
+      "role": "book-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "book-title-20",
+      "labels": "BookPublication",
+      "name": "Pharmacogenomics: Tailoring Drugs to Your Genes",
+      "images": "/images/book.jpg",
+      "role": "book-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "book-title-21",
+      "labels": "BookPublication",
+      "name": "Pediatric Oncology: Hope for Childhood Cancers",
+      "images": "/images/book.jpg",
+      "role": "book-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "book-title-22",
+      "labels": "BookPublication",
+      "name": "Medical Robotics: The Dawn of Automated Surgery",
+      "images": "/images/book.jpg",
+      "role": "book-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "book-title-23",
+      "labels": "BookPublication",
+      "name": "Biomaterials for Implants: Engineering the Body",
+      "images": "/images/book.jpg",
+      "role": "book-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "book-title-24",
+      "labels": "BookPublication",
+      "name": "Global Health Disparities: A Call to Action",
+      "images": "/images/book.jpg",
+      "role": "book-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "book-title-25",
+      "labels": "BookPublication",
+      "name": "The Human Microbiome: Your Inner Ecosystem",
+      "images": "/images/book.jpg",
+      "role": "book-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "book-title-26",
+      "labels": "BookPublication",
+      "name": "Cardiovascular Regeneration: Repairing the Heart",
+      "images": "/images/book.jpg",
+      "role": "book-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "book-title-27",
+      "labels": "BookPublication",
+      "name": "Artificial Organs: Breakthroughs in Transplantation",
+      "images": "/images/book.jpg",
+      "role": "book-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "book-title-28",
+      "labels": "BookPublication",
+      "name": "Infectious Disease Outbreaks: Preparedness and Response",
+      "images": "/images/book.jpg",
+      "role": "book-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "book-title-29",
+      "labels": "BookPublication",
+      "name": "AI for Personalized Medicine: The Future of Treatment",
+      "images": "/images/book.jpg",
+      "role": "book-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "publisher-0",
+      "labels": "Publisher",
+      "name": "Academic Press",
+      "images": "/images/publisher.jpg",
+      "role": "publisher",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "publisher-1",
+      "labels": "Publisher",
+      "name": "Springer Nature",
+      "images": "/images/publisher.jpg",
+      "role": "publisher",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "publisher-2",
+      "labels": "Publisher",
+      "name": "Elsevier",
+      "images": "/images/publisher.jpg",
+      "role": "publisher",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "publisher-3",
+      "labels": "Publisher",
+      "name": "Wiley-Blackwell",
+      "images": "/images/publisher.jpg",
+      "role": "publisher",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "publisher-4",
+      "labels": "Publisher",
+      "name": "Oxford University Press",
+      "images": "/images/publisher.jpg",
+      "role": "publisher",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "publisher-5",
+      "labels": "Publisher",
+      "name": "Cambridge University Press",
+      "images": "/images/publisher.jpg",
+      "role": "publisher",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "publisher-6",
+      "labels": "Publisher",
+      "name": "Taylor & Francis",
+      "images": "/images/publisher.jpg",
+      "role": "publisher",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "publisher-7",
+      "labels": "Publisher",
+      "name": "SAGE Publishing",
+      "images": "/images/publisher.jpg",
+      "role": "publisher",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "publisher-8",
+      "labels": "Publisher",
+      "name": "Wolters Kluwer",
+      "images": "/images/publisher.jpg",
+      "role": "publisher",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "publisher-9",
+      "labels": "Publisher",
+      "name": "Thieme Medical Publishers",
+      "images": "/images/publisher.jpg",
+      "role": "publisher",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "other-publication-0",
+      "labels": "OtherPublication",
+      "name": "Journal of Medical Research",
+      "images": "/images/journal.jpg",
+      "role": "other-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "other-publication-1",
+      "labels": "OtherPublication",
+      "name": "Frontiers in Medicine",
+      "images": "/images/journal.jpg",
+      "role": "other-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "other-publication-2",
+      "labels": "OtherPublication",
+      "name": "Medical Innovations Digest",
+      "images": "/images/journal.jpg",
+      "role": "other-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "other-publication-3",
+      "labels": "OtherPublication",
+      "name": "Current Trends in Health Research",
+      "images": "/images/journal.jpg",
+      "role": "other-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "other-publication-4",
+      "labels": "OtherPublication",
+      "name": "Global Health Perspectives",
+      "images": "/images/journal.jpg",
+      "role": "other-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "other-publication-5",
+      "labels": "OtherPublication",
+      "name": "Journal of Advanced Therapeutics",
+      "images": "/images/journal.jpg",
+      "role": "other-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "other-publication-6",
+      "labels": "OtherPublication",
+      "name": "Biomedical Engineering Insights",
+      "images": "/images/journal.jpg",
+      "role": "other-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "other-publication-7",
+      "labels": "OtherPublication",
+      "name": "Journal of Neuroscience Research",
+      "images": "/images/journal.jpg",
+      "role": "other-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "other-publication-8",
+      "labels": "OtherPublication",
+      "name": "Genome Biology and Evolution",
+      "images": "/images/journal.jpg",
+      "role": "other-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "other-publication-9",
+      "labels": "OtherPublication",
+      "name": "Clinical Trials Journal",
+      "images": "/images/journal.jpg",
+      "role": "other-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "other-publication-10",
+      "labels": "OtherPublication",
+      "name": "Health Data Management",
+      "images": "/images/journal.jpg",
+      "role": "other-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "other-publication-11",
+      "labels": "OtherPublication",
+      "name": "Nanotechnology in Medicine",
+      "images": "/images/journal.jpg",
+      "role": "other-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "other-publication-12",
+      "labels": "OtherPublication",
+      "name": "Vaccine Science & Development",
+      "images": "/images/journal.jpg",
+      "role": "other-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "other-publication-13",
+      "labels": "OtherPublication",
+      "name": "Advances in Medical Imaging",
+      "images": "/images/journal.jpg",
+      "role": "other-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "other-publication-14",
+      "labels": "OtherPublication",
+      "name": "Nutrition & Genomics",
+      "images": "/images/journal.jpg",
+      "role": "other-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "other-publication-15",
+      "labels": "OtherPublication",
+      "name": "Journal of Neural Engineering",
+      "images": "/images/journal.jpg",
+      "role": "other-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "other-publication-16",
+      "labels": "OtherPublication",
+      "name": "Autoimmunity Reviews",
+      "images": "/images/journal.jpg",
+      "role": "other-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "other-publication-17",
+      "labels": "OtherPublication",
+      "name": "Health Psychology Journal",
+      "images": "/images/journal.jpg",
+      "role": "other-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "other-publication-18",
+      "labels": "OtherPublication",
+      "name": "Journal of Medical Ethics",
+      "images": "/images/journal.jpg",
+      "role": "other-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "other-publication-19",
+      "labels": "OtherPublication",
+      "name": "Cognitive Rehabilitation",
+      "images": "/images/journal.jpg",
+      "role": "other-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "other-publication-20",
+      "labels": "OtherPublication",
+      "name": "Pharmacogenomics and Personalized Medicine",
+      "images": "/images/journal.jpg",
+      "role": "other-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "other-publication-21",
+      "labels": "OtherPublication",
+      "name": "Journal of Pediatric Hematology/Oncology",
+      "images": "/images/journal.jpg",
+      "role": "other-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "other-publication-22",
+      "labels": "OtherPublication",
+      "name": "Robotics in Medicine",
+      "images": "/images/journal.jpg",
+      "role": "other-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "other-publication-23",
+      "labels": "OtherPublication",
+      "name": "Biomaterials and Implants",
+      "images": "/images/journal.jpg",
+      "role": "other-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "other-publication-24",
+      "labels": "OtherPublication",
+      "name": "International Journal for Equity in Health",
+      "images": "/images/journal.jpg",
+      "role": "other-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "other-publication-25",
+      "labels": "OtherPublication",
+      "name": "Microbiome",
+      "images": "/images/journal.jpg",
+      "role": "other-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "other-publication-26",
+      "labels": "OtherPublication",
+      "name": "Circulation Research",
+      "images": "/images/journal.jpg",
+      "role": "other-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "other-publication-27",
+      "labels": "OtherPublication",
+      "name": "Journal of Heart and Lung Transplantation",
+      "images": "/images/journal.jpg",
+      "role": "other-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "other-publication-28",
+      "labels": "OtherPublication",
+      "name": "Emerging Infectious Diseases",
+      "images": "/images/journal.jpg",
+      "role": "other-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    },
+    {
+      "id": "other-publication-29",
+      "labels": "OtherPublication",
+      "name": "AI in Medical Research",
+      "images": "/images/journal.jpg",
+      "role": "other-publication",
+      "dob": "N/A",
+      "address": "N/A",
+      "headline": "N/A",
+      "bio": "N/A",
+      "education": [],
+      "peers": 0,
+      "following": 0,
+      "patientServed": 0,
+      "successRate": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "0000-0000-1117-1957",
+      "target": "other-publication-4",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-0000-1117-1957",
+      "target": "other-publication-20",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-0000-1117-1957",
+      "target": "other-publication-29",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-0001-1709-2319",
+      "target": "other-publication-15",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-0001-1709-2319",
+      "target": "other-publication-5",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-0002-4873-8178",
+      "target": "other-publication-8",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-0002-4873-8178",
+      "target": "other-publication-5",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-0003-1042-4260",
+      "target": "other-publication-1",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-0003-1042-4260",
+      "target": "other-publication-5",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-0003-1042-4260",
+      "target": "other-publication-0",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-0003-1042-4260",
+      "target": "other-publication-2",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-0004-8644-7180",
+      "target": "other-publication-21",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-0004-8644-7180",
+      "target": "other-publication-27",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-0004-8644-7180",
+      "target": "other-publication-12",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-0004-8644-7180",
+      "target": "other-publication-24",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-0005-5536-5416",
+      "target": "other-publication-27",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-0005-5536-5416",
+      "target": "other-publication-17",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-0005-5536-5416",
+      "target": "other-publication-20",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-0005-5536-5416",
+      "target": "other-publication-29",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-0006-2384-2378",
+      "target": "other-publication-4",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-0006-2384-2378",
+      "target": "other-publication-26",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-0006-2384-2378",
+      "target": "other-publication-2",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-0006-2384-2378",
+      "target": "other-publication-22",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-0007-9781-5242",
+      "target": "other-publication-28",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-0007-9781-5242",
+      "target": "other-publication-21",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-0008-7617-2243",
+      "target": "other-publication-18",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-0008-7617-2243",
+      "target": "other-publication-10",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-0009-8018-2655",
+      "target": "other-publication-0",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-0009-8018-2655",
+      "target": "other-publication-12",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-0009-8018-2655",
+      "target": "other-publication-1",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-0009-8018-2655",
+      "target": "other-publication-13",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00010-9937-9813",
+      "target": "other-publication-0",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00010-9937-9813",
+      "target": "other-publication-1",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00010-9937-9813",
+      "target": "other-publication-26",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00010-9937-9813",
+      "target": "other-publication-17",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00011-7050-9193",
+      "target": "other-publication-12",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00011-7050-9193",
+      "target": "other-publication-4",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00011-7050-9193",
+      "target": "other-publication-6",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00012-5082-8666",
+      "target": "other-publication-22",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00012-5082-8666",
+      "target": "other-publication-20",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00013-5414-8535",
+      "target": "other-publication-11",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00013-5414-8535",
+      "target": "other-publication-4",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00013-5414-8535",
+      "target": "other-publication-26",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00014-1466-5230",
+      "target": "other-publication-27",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00014-1466-5230",
+      "target": "other-publication-5",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00014-1466-5230",
+      "target": "other-publication-9",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00014-1466-5230",
+      "target": "other-publication-8",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00015-1445-9353",
+      "target": "other-publication-21",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00015-1445-9353",
+      "target": "other-publication-4",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00015-1445-9353",
+      "target": "other-publication-16",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00016-9961-5070",
+      "target": "other-publication-11",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00016-9961-5070",
+      "target": "other-publication-7",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00017-5036-8878",
+      "target": "other-publication-13",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00017-5036-8878",
+      "target": "other-publication-10",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00017-5036-8878",
+      "target": "other-publication-4",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00017-5036-8878",
+      "target": "other-publication-18",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00018-7952-7698",
+      "target": "other-publication-28",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00018-7952-7698",
+      "target": "other-publication-0",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00019-2142-3042",
+      "target": "other-publication-29",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00019-2142-3042",
+      "target": "other-publication-12",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00019-2142-3042",
+      "target": "other-publication-3",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00020-3857-1237",
+      "target": "other-publication-0",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00020-3857-1237",
+      "target": "other-publication-28",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00020-3857-1237",
+      "target": "other-publication-19",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00020-3857-1237",
+      "target": "other-publication-22",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00021-3566-6413",
+      "target": "other-publication-3",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00021-3566-6413",
+      "target": "other-publication-11",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00021-3566-6413",
+      "target": "other-publication-27",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00022-6036-9864",
+      "target": "other-publication-7",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00022-6036-9864",
+      "target": "other-publication-3",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00022-6036-9864",
+      "target": "other-publication-23",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00022-6036-9864",
+      "target": "other-publication-2",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00023-8992-2930",
+      "target": "other-publication-29",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00023-8992-2930",
+      "target": "other-publication-16",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00023-8992-2930",
+      "target": "other-publication-15",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00024-9055-4327",
+      "target": "other-publication-2",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00024-9055-4327",
+      "target": "other-publication-27",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00025-6249-3742",
+      "target": "other-publication-13",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00025-6249-3742",
+      "target": "other-publication-2",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00025-6249-3742",
+      "target": "other-publication-17",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00026-1377-6092",
+      "target": "other-publication-17",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00026-1377-6092",
+      "target": "other-publication-3",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00026-1377-6092",
+      "target": "other-publication-0",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00027-7320-2702",
+      "target": "other-publication-7",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00027-7320-2702",
+      "target": "other-publication-21",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00027-7320-2702",
+      "target": "other-publication-26",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00028-7362-2777",
+      "target": "other-publication-17",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00028-7362-2777",
+      "target": "other-publication-18",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00029-2096-8959",
+      "target": "other-publication-3",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00029-2096-8959",
+      "target": "other-publication-14",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "other-publication-0",
+      "target": "publisher-9",
+      "label": "PUBLISHED BY"
+    },
+    {
+      "source": "other-publication-1",
+      "target": "publisher-7",
+      "label": "PUBLISHED BY"
+    },
+    {
+      "source": "other-publication-2",
+      "target": "publisher-9",
+      "label": "PUBLISHED BY"
+    },
+    {
+      "source": "other-publication-3",
+      "target": "publisher-4",
+      "label": "PUBLISHED BY"
+    },
+    {
+      "source": "other-publication-4",
+      "target": "publisher-7",
+      "label": "PUBLISHED BY"
+    },
+    {
+      "source": "other-publication-5",
+      "target": "publisher-5",
+      "label": "PUBLISHED BY"
+    },
+    {
+      "source": "other-publication-6",
+      "target": "publisher-1",
+      "label": "PUBLISHED BY"
+    },
+    {
+      "source": "other-publication-7",
+      "target": "publisher-6",
+      "label": "PUBLISHED BY"
+    },
+    {
+      "source": "other-publication-8",
+      "target": "publisher-7",
+      "label": "PUBLISHED BY"
+    },
+    {
+      "source": "other-publication-9",
+      "target": "publisher-8",
+      "label": "PUBLISHED BY"
+    },
+    {
+      "source": "other-publication-10",
+      "target": "publisher-9",
+      "label": "PUBLISHED BY"
+    },
+    {
+      "source": "other-publication-11",
+      "target": "publisher-8",
+      "label": "PUBLISHED BY"
+    },
+    {
+      "source": "other-publication-12",
+      "target": "publisher-6",
+      "label": "PUBLISHED BY"
+    },
+    {
+      "source": "other-publication-13",
+      "target": "publisher-6",
+      "label": "PUBLISHED BY"
+    },
+    {
+      "source": "other-publication-14",
+      "target": "publisher-1",
+      "label": "PUBLISHED BY"
+    },
+    {
+      "source": "other-publication-15",
+      "target": "publisher-0",
+      "label": "PUBLISHED BY"
+    },
+    {
+      "source": "other-publication-16",
+      "target": "publisher-9",
+      "label": "PUBLISHED BY"
+    },
+    {
+      "source": "other-publication-17",
+      "target": "publisher-0",
+      "label": "PUBLISHED BY"
+    },
+    {
+      "source": "other-publication-18",
+      "target": "publisher-4",
+      "label": "PUBLISHED BY"
+    },
+    {
+      "source": "other-publication-19",
+      "target": "publisher-2",
+      "label": "PUBLISHED BY"
+    },
+    {
+      "source": "other-publication-20",
+      "target": "publisher-2",
+      "label": "PUBLISHED BY"
+    },
+    {
+      "source": "other-publication-21",
+      "target": "publisher-3",
+      "label": "PUBLISHED BY"
+    },
+    {
+      "source": "other-publication-22",
+      "target": "publisher-6",
+      "label": "PUBLISHED BY"
+    },
+    {
+      "source": "other-publication-23",
+      "target": "publisher-7",
+      "label": "PUBLISHED BY"
+    },
+    {
+      "source": "other-publication-24",
+      "target": "publisher-5",
+      "label": "PUBLISHED BY"
+    },
+    {
+      "source": "other-publication-25",
+      "target": "publisher-3",
+      "label": "PUBLISHED BY"
+    },
+    {
+      "source": "other-publication-26",
+      "target": "publisher-9",
+      "label": "PUBLISHED BY"
+    },
+    {
+      "source": "other-publication-27",
+      "target": "publisher-2",
+      "label": "PUBLISHED BY"
+    },
+    {
+      "source": "other-publication-28",
+      "target": "publisher-3",
+      "label": "PUBLISHED BY"
+    },
+    {
+      "source": "other-publication-29",
+      "target": "publisher-3",
+      "label": "PUBLISHED BY"
+    },
+    {
+      "source": "0000-00019-2142-3042",
+      "target": "book-title-12",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00017-5036-8878",
+      "target": "book-title-9",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00012-5082-8666",
+      "target": "book-title-23",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00020-3857-1237",
+      "target": "book-title-15",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00025-6249-3742",
+      "target": "book-title-25",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00010-9937-9813",
+      "target": "book-title-25",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-0002-4873-8178",
+      "target": "book-title-24",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00023-8992-2930",
+      "target": "book-title-12",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00011-7050-9193",
+      "target": "book-title-26",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-0003-1042-4260",
+      "target": "book-title-3",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00024-9055-4327",
+      "target": "book-title-10",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00014-1466-5230",
+      "target": "book-title-22",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00029-2096-8959",
+      "target": "book-title-13",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00028-7362-2777",
+      "target": "book-title-9",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-0004-8644-7180",
+      "target": "book-title-27",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-0008-7617-2243",
+      "target": "book-title-24",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00016-9961-5070",
+      "target": "book-title-0",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-0006-2384-2378",
+      "target": "book-title-19",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00013-5414-8535",
+      "target": "book-title-8",
+      "label": "AUTHORED"
+    },
+    {
+      "source": "0000-00022-6036-9864",
+      "target": "book-title-6",
+      "label": "AUTHORED"
+    }
+  ]
+}
